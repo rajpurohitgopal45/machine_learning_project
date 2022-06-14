@@ -24,7 +24,7 @@ git push origin main
 
 to setup ci/cd pipeline in heroku we need below details
 Heroku email = oggymafia@gmail.com
-Heroku api_key =  ed7e99c7-5e4f-4559-a783-2f32cb61d2e9
+Heroku api_key =  
 Heroku app name =  sim-ml-regression
 
 to build docker image
