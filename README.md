@@ -33,3 +33,5 @@ docker images
 docker run -p 5000:5000 -e PORT:5000 <image id>
 look running images   docker ps
 to stop doker stop <container id>
+
+python setup.py install       (no need to execute pip install requirements.txt)
